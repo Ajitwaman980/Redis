@@ -1,9 +1,10 @@
-#redis 
-#dependency
+Redis 
+------------------------------------------------------------------------------------------
+dependency
 ```
 npm i 
 ```
-#run cmd 
+run cmd 
 ```
 tsc -b
 node dist/app.js
